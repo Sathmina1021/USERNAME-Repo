@@ -65,7 +65,7 @@ Feel free to reach out for collaborations, freelance projects, or just to say hi
 
 - 🌐 **Portfolio:** [sathmina1021.github.io/myportfolio](https://sathmina1021.github.io/myportfolio/)
 - 💼 **LinkedIn:** [Sathmina Mihikalpa](https://www.linkedin.com/in/sathmina-mihikalpa-555609358/)
-- 📧 **Email:** *(Add your email here if you want)*
+- 📧 **Email:** *  [sathmina7788@gmail.com]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24" alt="Footer" />
